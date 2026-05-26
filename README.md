@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Brahmajita Roy<br><br>🎓 Student passionate about technology, AI, and software development<br>💻 Currently exploring Java, JDBC, MySQL, and backend development<br>🚀 Interested in building real-world projects and problem-solving systems
+👋 Hi, I'm Brahmajita Roy<br><br>🎓 Student passionate about technology, AI<br>💻 Currently exploring Java, JDBC, MySQL<br>🚀 Interested in building real-world projects and problem-solving systems
 
 
 ## 🌐 Socials:
